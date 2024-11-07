@@ -22,6 +22,14 @@ LLM分析：transformers+llama-cpp-python+deepseek-coder
 3. 利用一个文件中所有类的描述，生成文件的描述
 4. 结合引用文件描述，重新生成当前文件描述
 
+## 格式转换和输出
+
+markdown parser：
+
+* https://github.com/miyuchina/mistletoe
+  * 支持输出格式：HTML、LaTeX、Markdown
+* https://marko-py.readthedocs.io/en/latest/
+
 ## todo
 
 min宝倾情支援：
